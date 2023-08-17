@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @githubdivyanshu
 - 👀 I’m interested in ...cyber security
-- 🌱 I’m currently learning ...dsa
-- 💞️ I’m looking to collaborate
+- 🌱 I’m currently learning .
+
 - 📫 How to reach me ...instagram @divyanshu.kharee
 
 <!---
